@@ -1,3 +1,5 @@
 # morales_mobprog
 
-A new Flutter project.
+The primary challenges I encountered while setting up my Flutter development environment were configuring the environment variables, installing the required dependencies, and running the emulator. At first, I had difficulty making Flutter work properly because some paths and required tools were not yet configured correctly. I also encountered issues with Android SDK licenses and missing components when checking my setup using flutter doctor.
+To solve these problems, I checked the error messages, followed the recommended steps, configured the environment variables, installed the missing dependencies, and accepted the required Android licenses. I also made sure that my emulator was properly set up before running my first Flutter project.
+Through this experience, I learned that setting up Flutter requires patience and proper configuration. In my future projects, I will make sure to check the requirements, configure the environment variables correctly, and run flutter doctor early to avoid similar problems and make the development process smoother.
